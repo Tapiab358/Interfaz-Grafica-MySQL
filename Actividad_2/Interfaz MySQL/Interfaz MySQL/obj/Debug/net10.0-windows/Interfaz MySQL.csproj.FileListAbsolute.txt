@@ -1,0 +1,31 @@
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Interfaz MySQL.exe
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Interfaz MySQL.deps.json
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Interfaz MySQL.runtimeconfig.json
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Interfaz MySQL.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Interfaz MySQL.pdb
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz_MySQL.Form1.resources
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.csproj.GenerateResource.cache
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.AssemblyInfoInputs.cache
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.AssemblyInfo.cs
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\refint\Interfaz MySQL.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.pdb
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.genruntimeconfig.cache
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\ref\Interfaz MySQL.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz MySQL.csproj.AssemblyReference.cache
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz.B6C88702.Up2Date
+C:\Users\Brand\OneDrive\Escritorio\Universidad\Maestria\Ciberinfraestructura\Actividad_2\Interfaz MySQL\Interfaz MySQL\obj\Debug\net10.0-windows\Interfaz_MySQL.Properties.Resources.resources
